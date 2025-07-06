@@ -1,6 +1,8 @@
 Movie Suggestion App
 A responsive web application built with React.js and Vite that provides personalized movie suggestions. Leverage the TMDB API to deliver rich movie data and suggestions based on your interests.
 
+Live Demo: https://movie-sugg-suraj-app.vercel.app/
+
 This app allows users to:
 
 🎬 Search for movies by title
